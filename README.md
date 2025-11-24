@@ -31,4 +31,4 @@ Below, you can see a glimpse of what I have been exploring recently.
 
 **GnomeStyles**: An all-in-one application for customizing your GNOME desktop on Linux. It allows you to easily personalize wallpapers, GRUB themes, and extensions.
 
-<img src="https://github.com/rleeon/rleeon/blob/main/Videos/GnomeSTYLES.png" width="64" />
+<img src="https://github.com/rleeon/rleeon/blob/main/Videos/GnomeSTYLES.png" width="150" height="42" style="margin:0 15%;" />
