@@ -27,6 +27,10 @@ Below, you can see a glimpse of what I have been exploring recently.
 
 ## LATEST PROJECTS
 
+:P
+
+## Dormant projects..
+
 **BeltmaticSolver**: A lightweight script designed to calculate the most optimal configurations based on the user’s specific needs.
 
 <a href="https://www.youtube.com/watch?v=TtMzTGfs-fc">
@@ -36,9 +40,10 @@ Below, you can see a glimpse of what I have been exploring recently.
        style="margin:0 15%;" />
 </a>
 
-## Dormant projects..
+## Abandoned
 
 **GnomeStyles**: An all-in-one application for customizing your GNOME desktop on Linux. It allows you to easily personalize wallpapers, GRUB themes, and extensions.
+But Development is dormant.. though the code remains stored should the project ever be revived.
 
 <a href="https://www.youtube.com/watch?v=TtMzTGfs-fc">
   <img src="https://github.com/rleeon/rleeon/blob/main/Videos/GnomeSTYLES.png" 
