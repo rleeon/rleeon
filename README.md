@@ -34,7 +34,7 @@ Below, you can see a glimpse of what I have been exploring recently.
 **BeltmaticSolver**: A lightweight script designed to calculate the most optimal configurations based on the user’s specific needs.
 
 <a href="https://www.youtube.com/watch?v=TtMzTGfs-fc">
-  <img src="https://github.com/rleeon/rleeon/blob/main/Videos/GnomeSTYLES.png" 
+  <img src="[https://github.com/rleeon/BeltmaticSolver/blob/main/PicsandGifs/I.png]" 
        width="150" 
        height="42" 
        style="margin:0 15%;" />
