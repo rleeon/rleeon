@@ -18,25 +18,40 @@ And I absolutely love seeing big new discoveries in science – especially mind-
 Below, you can see a glimpse of what I have been exploring recently.
 
 <div>
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin:0 15%;">&nbsp;&nbsp;&nbsp;
-</a>
-<a href="https://rust-lang.org/">
-  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" style="margin:0 15%;">&nbsp;&nbsp;&nbsp;
-</a>
-<a href="https://soundcloud.com/">
-  <img src="https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" style="margin:0 15%;">&nbsp;&nbsp;&nbsp;
-</a>
-<a href="https://github.com/torvalds/linux">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin:0 15%;">&nbsp;&nbsp;&nbsp;
-</a>
-<a href="https://www.gnome.org/">
-  <img src="https://img.shields.io/badge/GNOME-%234A86CF.svg?style=for-the-badge&logo=gnome&logoColor=white" style="margin:0 15%;"/> &nbsp;&nbsp;&nbsp;
-</a>
-<a href="https://www.kde.org/">
-  <img src="https://img.shields.io/badge/KDE-%231A7CC1.svg?style=for-the-badge&logo=kde&logoColor=white" style="margin:0 15%;"> &nbsp;&nbsp;&nbsp;
+<a href="https://www.python.org/" style="display:inline-block;">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  &#8203;
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://rust-lang.org/" style="display:inline-block;">
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
+  &#8203;
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://soundcloud.com/" style="display:inline-block;">
+  <img src="https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white">
+  &#8203;
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/torvalds/linux" style="display:inline-block;">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  &#8203;
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.gnome.org/" style="display:inline-block;">
+  <img src="https://img.shields.io/badge/GNOME-%234A86CF.svg?style=for-the-badge&logo=gnome&logoColor=white">
+  &#8203;
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.kde.org/" style="display:inline-block;">
+  <img src="https://img.shields.io/badge/KDE-%231A7CC1.svg?style=for-the-badge&logo=kde&logoColor=white">
+  &#8203;
 </a>
 </div>
+
+
+
+
 
 ## LATEST PROJECTS
 
