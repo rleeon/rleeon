@@ -9,7 +9,7 @@ I maintain multiple social media platforms, where I exclusively share content re
 
 [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/InSaiDeH)&nbsp;&nbsp;&nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@misterinsider)&nbsp;&nbsp;&nbsp;
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com)
+<!-- [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com) -->
 
 ## ABOUT ME
 I'm just a normal teenager who is totally in love with computers.   
