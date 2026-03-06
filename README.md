@@ -8,7 +8,7 @@
 I maintain multiple social media platforms, where I exclusively share content related to technology or publish my projects.
 
 [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/InSaiDeH)&nbsp;&nbsp;&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@misterinsider)&nbsp;&nbsp;&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com)&nbsp;&nbsp;&nbsp;
 <!-- [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com) -->
 
 ## ABOUT ME
@@ -70,11 +70,10 @@ Below, you can see a glimpse of what I have been exploring recently.
 
 ## Archived projects...
 
-**GnomeStyles**: An all-in-one application for customizing your GNOME desktop on Linux. It allows you to easily personalize wallpapers, GRUB themes, and extensions.
-But Development is dormant.. though the code remains stored should the project ever be revived.
+:P
 
 <a href="https://www.youtube.com/watch?v=TtMzTGfs-fc">
-  <img src="https://github.com/rleeon/rleeon/blob/main/Videos/GnomeSTYLES.png" 
+  <img src="https://github.com" 
        width="150" 
        height="42" 
        style="margin:0 15%;" />
