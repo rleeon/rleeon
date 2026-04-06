@@ -55,7 +55,7 @@ Below, you can see a glimpse of what I have been exploring recently.
 
 ## Current projects.
 
-:P
+Some games in java only, 1 finished "snake", 1 in progress "a space war".
 
 ## Dormant projects..
 
@@ -71,10 +71,11 @@ Below, you can see a glimpse of what I have been exploring recently.
 ## Archived projects...
 
 :P
-
+<!--
 <a href="https://www.youtube.com/watch?v=TtMzTGfs-fc">
   <img src="https://github.com" 
        width="150" 
        height="42" 
        style="margin:0 15%;" />
 </a>
+ -->
