@@ -40,4 +40,12 @@ Below, you can see a glimpse of what I have been exploring recently.
 
 Hoard, a cloud storage for save games, you can sync saves between machines.
 
-Some games in java only, i do a snake and other games in private.
+## Funny projects
+
+Some CLI-Games in java or rust, just because i love add maths to programming.
+
+Local AI integration "Ada Project"
+
+One app to change how Gnome looks "GnomeStyles"
+
+A Cli script in python to calculates how to reach a number in a game "BeltmaticSolver"
