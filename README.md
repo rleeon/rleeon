@@ -1,8 +1,3 @@
-<div align="CENTER">
-  <img width="600" height="122" src="https://github.com/rleeon/rleeon/blob/main/Videos/MrInsider1.gif" />
-</div>
-
-
 ## ABOUT ME
 I'm just a normal teenager who is totally in love with computers.   
 
