@@ -33,7 +33,7 @@ Below, you can see a glimpse of what I have been exploring recently.
 
 ## Current projects.
 
-Hoard, a cloud storage for save games, you can sync saves between machines.
+Hoard, a cloud storage for save games, you can backup & sync saves between machines.
 
 ## Funny projects
 
